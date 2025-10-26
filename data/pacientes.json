@@ -1,0 +1,32 @@
+[
+  {
+    "nome": "João Silva",
+    "idade": 30,
+    "cpf": "123.456.789-00"
+  },
+  {
+    "nome": "Maria Santos",
+    "idade": 45,
+    "cpf": "987.654.321-01"
+  },
+  {
+    "nome": "Pedro Oliveira",
+    "idade": 22,
+    "cpf": "111.222.333-02"
+  },
+  {
+    "nome": "Ana Costa",
+    "idade": 58,
+    "cpf": "444.555.666-03"
+  },
+  {
+    "nome": "Carlos Pereira",
+    "idade": 39,
+    "cpf": "777.888.999-04"
+  },
+  {
+    "nome": "Sofia Almeida",
+    "idade": 17,
+    "cpf": "000.111.222-05"
+  }
+]

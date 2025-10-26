@@ -1,0 +1,32 @@
+[
+  {
+    "nome": "Dr. Ricardo Torres",
+    "idade": 55,
+    "crm": "SP123456",
+    "especialidade": "Cardiologia"
+  },
+  {
+    "nome": "Dra. Laura Mendes",
+    "idade": 38,
+    "crm": "RJ789012",
+    "especialidade": "Dermatologia"
+  },
+  {
+    "nome": "Dr. Felipe Castro",
+    "idade": 42,
+    "crm": "MG345678",
+    "especialidade": "Ortopedia"
+  },
+  {
+    "nome": "Dra. Camila Nogueira",
+    "idade": 29,
+    "crm": "PR901234",
+    "especialidade": "Pediatria"
+  },
+  {
+    "nome": "Dr. Gustavo Lima",
+    "idade": 61,
+    "crm": "BA567890",
+    "especialidade": "Neurologia"
+  }
+]
