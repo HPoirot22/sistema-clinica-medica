@@ -47,3 +47,7 @@ ClinicaMedica/
 - **`js/main.js`**: Orquestra a aplicação. É responsável por carregar os dados, popular os seletores e registrar o evento de clique para agendar consultas.
 - **`js/DomHandler.js`**: Uma classe estática com métodos dedicados a interagir com o DOM, como atualizar as listas de seleção e exibir as consultas agendadas.
 - **`data/*.json`**: Arquivos que simulam um banco de dados, contendo as informações dos médicos e pacientes.
+
+## 🚀 Como Executar
+
+Apenas acessar o link: https://hpoirot22.github.io/sistema-clinica-medica/
